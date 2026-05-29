@@ -8,6 +8,18 @@
 Full Stack Developer • Problem Solver • ML Explorer
 </p>
 
+<div align="center">
+  <a href="https://linkedin.com/in/shivam-kumar-027949140" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://leetcode.com/u/suarez2k16/" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+  </a>
+   <a href="https://x.com/Shivam0to1" target="_blank"> 
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+   </a>  
+</div>
 
 ---
 
@@ -42,18 +54,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 - 📘 Currently learning **Data Science**
 - 🤖 Exploring **Machine Learning**
 
----
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/shivam-kumar-027949140" target="_blank"> 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-
-
-</p>
 
 ---
 
