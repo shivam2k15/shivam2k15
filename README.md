@@ -43,7 +43,7 @@ Full Stack Developer • Problem Solver • ML Explorer
 # 🛠 Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,nodejs,typescript"/>
+<img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,nodejs,typescript,docker,aws,redis,elasticsearch,postgresql,mongodb,mysql,sequelize,prisma,supabase,vercel,git,github,bitbucket,jenkins,nginx,tailwind,bootstrap,angular"/>
 </p>
 
 ---
