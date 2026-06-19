@@ -1,11 +1,8 @@
 <div align="center">  
-
-<img src="https://komarev.com/ghpvc/?username=shivam2k15&label=Profile%20Views&color=F706CF&style=flat-square"/>
-
 <h1>Shivam Kumar</h1>
 
 <p>
-Full Stack Developer • Problem Solver • ML Explorer
+I provide Scalable Distributed Solution • Exploring Machine Learning
 </p>
 
 <div align="center">
@@ -20,19 +17,3 @@ Full Stack Developer • Problem Solver • ML Explorer
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
    </a>  
 </div>
-
----
-
-# 👨‍💻 About Me
-
-- 🌐 Passionate about **Distributed Scalable Solution**
-- 📘 Currently learning **Data Science**
-- 🤖 Exploring **Machine Learning**
-
----
-
-<p align="center">
-
-⭐ Building • Learning • Growing
-
-</p>
