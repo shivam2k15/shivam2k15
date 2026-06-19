@@ -23,52 +23,11 @@ Full Stack Developer • Problem Solver • ML Explorer
 
 ---
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam2k15&theme=github-dark&color=F706CF&line=F706CF&point=F706CF&hide_border=true"/>
-
----
-</div>
-
-# 💻 Most Used Languages 
-
-<p align="center"> 
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivam2k15&theme=radical" height="160"/> 
-
-</p> 
-
----
-
-# 🛠 Languages & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,nodejs,typescript,docker,aws,redis,elasticsearch,postgresql,mongodb,mysql,sequelize,prisma,supabase,vercel,git,github,bitbucket,jenkins,nginx,tailwind,bootstrap,angular"/>
-</p>
-
----
-
 # 👨‍💻 About Me
 
 - 🌐 Passionate about **Distributed Scalable Solution**
 - 📘 Currently learning **Data Science**
 - 🤖 Exploring **Machine Learning**
-
-
-
----
-
-# 📊 GitHub Stats & 🔥 Streak
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivam2k15&theme=radical" height="160"/>
-
-
-
-<img src="https://streak-stats.demolab.com?user=shivam2k15&theme=radical&ring=F706CF&fire=F706CF&currStreakLabel=F706CF&sideLabels=F706CF&dates=F706CF" height="160"/>
-
-</p>
 
 ---
 
