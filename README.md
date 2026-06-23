@@ -2,7 +2,7 @@
 <h1>Shivam Kumar</h1>
 
 <p>
-I provide Scalable Distributed Solution • Exploring Machine Learning
+ Solving complex problems with AI
 </p>
 
 <div align="center">
