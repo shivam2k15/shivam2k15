@@ -1,8 +1,7 @@
 <div align="center">  
 <h1>Shivam Kumar</h1>
 
-<p>
- Solving complex problems with AI
+<p>AI agents, MCP and tool-calling workflows, AI coding agents and developer tools, RAG, evals, observability, and production AI systems, Automation workflows using tools like Chroma, Qwen2.5, Llama, n8n, Codex, Copilot and OpenAI APIs, Claude APIs, AI careers, FDE roles, and builder opportunities.
 </p>
 
 <div align="center">
