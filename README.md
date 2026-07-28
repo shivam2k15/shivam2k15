@@ -1,7 +1,7 @@
 <div align="center">  
 <h1>Shivam Kumar</h1>
 
-<p>AI agents, MCP and tool-calling workflows, AI coding agents and developer tools, RAG, evals, observability, and production AI systems, Automation workflows using tools like Chroma, Qwen2.5, Llama, n8n, Codex, Copilot and OpenAI APIs, Claude APIs, AI careers, FDE roles, and builder opportunities.
+<p>Backend Developer specializing in **MERN, Python AI and Rust, Solana Web3**, building scalable backend systems, smart contracts, and AI-powered applications. Learning **AI agents, MCP, tool-calling workflows, RAG, production AI systems, Chroma, Qwen, Llama, n8n, OpenAI & Claude APIs**, while exploring AI-native developer tools and Web3 infrastructure.
 </p>
 
 <div align="center">
