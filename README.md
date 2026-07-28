@@ -1,7 +1,7 @@
 <div align="center">  
 <h1>Shivam Kumar</h1>
 
-<p>Backend Developer specializing in MERN, Python AI and Rust, Solana Web3, building scalable backend systems, smart contracts, and AI-powered applications. Learning AI agents, MCP, tool-calling workflows, RAG, production AI systems, Chroma, Qwen, Llama, n8n, OpenAI & Claude APIs, while exploring AI-native developer tools and Web3 infrastructure.
+<p>Backend Developer specializing in MERN, Python AI and Rust, building scalable backend systems and AI-powered applications. Learning AI agents, MCP, tool-calling workflows, RAG, production AI systems, Chroma, Qwen, Llama, n8n, OpenAI & Claude APIs, while exploring AI-native developer tools and Web3 infrastructure.
 </p>
 
 <div align="center">
